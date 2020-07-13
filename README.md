@@ -1,4 +1,6 @@
-<img align="center" src="https://github.com/1995parham/1995parham/raw/master/logo-lg.png"></img>
+<p align="center">
+  <img src="https://github.com/1995parham/1995parham/raw/master/logo-lg.png"></img>
+</p>
 
 <!--
 **1995parham/1995parham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
