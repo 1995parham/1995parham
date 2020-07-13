@@ -1,17 +1,18 @@
 <p align="center">
-  <img src="./logo-lg.png"></img>
+  <img src="https://github.com/1995parham/1995parham/raw/master/logo-lg.png"></img>
 </p>
 
 - ⚡ Fun fact: 🐼
 - 📫 How to reach me: parham.alvani@gmail.com 📧
 
 ```go
+go inLove([]string{"@elahe-dastan", "c", "golang", "python3", "angular", "rust"})
+go research([]string{"IoT", "NFV"})
+
 for aLive() == true {
-        eat()
-        code()
-        sleep()
-        inLove([]string{"@elahe-dastan", "c", "go", "python3", "angular", "rust"})
-        research([]string{"IoT", "NFV"})
+  eat()
+  code()
+  sleep()
 }
 ```
 
