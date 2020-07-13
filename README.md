@@ -1,4 +1,4 @@
-### Hi there 👋
+![logo](./logo-lg.pngg)
 
 <!--
 **1995parham/1995parham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
