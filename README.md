@@ -1,6 +1,19 @@
 <p align="center">
-  <img src="https://github.com/1995parham/1995parham/raw/master/logo-lg.png"></img>
+  <img src="./logo-lg.png"></img>
 </p>
+
+- ⚡ Fun fact: 🐼
+- 📫 How to reach me: parham.alvani@gmail.com 📧
+
+```go
+for aLive() == true {
+        eat()
+        code()
+        sleep()
+        inLove([]string{"@elahe-dastan", "c", "go", "python3", "angular", "rust"})
+        research([]string{"IoT", "NFV"})
+}
+```
 
 <!--
 **1995parham/1995parham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
