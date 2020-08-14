@@ -15,6 +15,11 @@
 
 [![](https://img.shields.io/badge/-gmail-lightgray?style=flat-square&logo=gmail)](mailto:parham.alvani@gmail.com)
 
+I am a Backend Developer and works with Golang since 2014. I love open-source and try to develop useful and tangible software. I have experience with Frontend development too.
+Currently, I am studying Ph.D. at the Amirkabir University of Technology. My research interests include but not limited to Software-Defined Networking and Network Function Virtualization.
+I had worked in the IoT Platform and hardware field years ago and I have left these fields since two years ago.
+I live in Iran and I love my country. I can summarize my life with the following code:
+
 ```go
 go inLove([]string{"@elahe-dastan", "c", "golang", "python3", "angular", "rust"})
 go research([]string{"IoT", "NFV"})
