@@ -17,7 +17,7 @@
 
 I am a Backend Developer and develope using Golang since 2014. I love open-source and try to develop useful and tangible software. I have experience with Frontend development too.
 Currently, I am studying Ph.D. at the Amirkabir University of Technology. My research interests include but not limited to Software-Defined Networking and Network Function Virtualization.
-I had worked in the IoT Platform and hardware field years ago and I have left these fields for the last two years.
+I also have experience in Internet of Things and desiging the Low Power LAN solutions.
 I live in Iran and I love my country. I can summarize my life with the following code:
 
 ```go
@@ -31,6 +31,6 @@ for aLive() == true {
 }
 ```
 
-<p align="center">
+<!--<p align="center">
   <img src="https://raw.githubusercontent.com/1995parham/1995parham/master/bernard.gif"></img>
-</p>
+</p>-->
