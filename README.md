@@ -15,10 +15,11 @@
 
 [![](https://img.shields.io/badge/-gmail-lightgray?style=flat-square&logo=gmail)](mailto:parham.alvani@gmail.com)
 
-I am a Backend Developer and develope using Golang since 2014. I love open-source and try to develop useful and tangible software. I have experience with Frontend development too.
+I am a Backend Developer at Snapp! and my favorite language is Golang since 2014 when I fell in love with it.
+I love open-source and try to develop useful and tangible software. I have experience with Frontend development too.
 Currently, I am studying Ph.D. at the Amirkabir University of Technology. My research interests include but not limited to Software-Defined Networking and Network Function Virtualization.
-I also have experience in Internet of Things and desiging the Low Power LAN solutions.
-I live in Iran and I love my country. I can summarize my life with the following code:
+I also have experience in the Internet of Things and designing the Low Power LAN solutions from working and researching at the Amirkabir University of Technology Laboratory (AoLab).
+I live in Iran, Tehran and I love my country. I can summarize my life with the following code:
 
 ```go
 go inLove([]string{"@elahe-dastan", "c", "golang", "python3", "angular", "rust"})
