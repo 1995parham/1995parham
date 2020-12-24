@@ -31,6 +31,7 @@ for aLive() == true {
   sleep()
 }
 ```
+<p align="center">#IranianLivesMatter</p>
 
 <!--<p align="center">
   <img src="https://raw.githubusercontent.com/1995parham/1995parham/master/bernard.gif"></img>
