@@ -32,6 +32,7 @@ for aLive() == true {
 }
 ```
 <h3 align="center">#IranianLivesMatter 🇮🇷</h3>
+<h3 align="center">I love Github, check <a href="https://github.blog/2021-01-05-advancing-developer-freedom-github-is-fully-available-in-iran/">this</h2> out</h3>
 
 <!--<p align="center">
   <img src="https://raw.githubusercontent.com/1995parham/1995parham/master/bernard.gif"></img>
