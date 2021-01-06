@@ -4,16 +4,16 @@
 
 # 1995parham 🐼
 
-[![](https://img.shields.io/badge/-elahe.dstn-black?style=flat-square&label=%F0%9F%A7%A1)](https://github.com/elahe-dastan)
+[![](https://img.shields.io/badge/-elahe.dstn-black?style=for-the-badge&label=%F0%9F%A7%A1)](https://github.com/elahe-dastan)
 
-![](https://img.shields.io/badge/-rust-orange?style=flat-square&logo=rust)
-![](https://img.shields.io/badge/-go-orange?style=flat-square&logo=go)
-![](https://img.shields.io/badge/-python3-orange?style=flat-square&logo=python)
-![](https://img.shields.io/badge/-c-orange?style=flat-square&logo=c)
+![](https://img.shields.io/badge/-rust-orange?style=for-the-badge&logo=rust)
+![](https://img.shields.io/badge/-go-orange?style=for-the-badge&logo=go)
+![](https://img.shields.io/badge/-python3-orange?style=for-the-badge&logo=python)
+![](https://img.shields.io/badge/-c-orange?style=for-the-badge&logo=c)
 
-![](https://img.shields.io/badge/-angular-green?style=flat-square&logo=angular)
+![](https://img.shields.io/badge/-angular-green?style=for-the-badge&logo=angular)
 
-[![](https://img.shields.io/badge/-gmail-lightgray?style=flat-square&logo=gmail)](mailto:parham.alvani@gmail.com)
+[![](https://img.shields.io/badge/-gmail-lightgray?style=for-the-badge&logo=gmail)](mailto:parham.alvani@gmail.com)
 
 I am a Backend Developer at Snapp! and my favorite language is Golang since 2014 when I fell in love with it.
 I love open-source and try to develop useful and tangible software. I have experience with Frontend development too.
