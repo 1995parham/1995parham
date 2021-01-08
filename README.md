@@ -6,12 +6,12 @@
 
 [![](https://img.shields.io/badge/-elahe.dstn-black?style=for-the-badge&label=%F0%9F%A7%A1)](https://github.com/elahe-dastan)
 
-![](https://img.shields.io/badge/-rust-orange?style=for-the-badge&logo=rust)
-![](https://img.shields.io/badge/-go-orange?style=for-the-badge&logo=go)
-![](https://img.shields.io/badge/-python3-orange?style=for-the-badge&logo=python)
-![](https://img.shields.io/badge/-c-orange?style=for-the-badge&logo=c)
+[![](https://img.shields.io/badge/-rust-orange?style=for-the-badge&logo=rust)](https://www.rust-lang.org/)
+[![](https://img.shields.io/badge/-go-orange?style=for-the-badge&logo=go)](https://go.dev/)
+[![](https://img.shields.io/badge/-python3-orange?style=for-the-badge&logo=python)](https://www.python.org/)
+[![](https://img.shields.io/badge/-c-orange?style=for-the-badge&logo=c)](https://en.wikipedia.org/wiki/C_%28programming_language%29)
 
-![](https://img.shields.io/badge/-angular-green?style=for-the-badge&logo=angular)
+[![](https://img.shields.io/badge/-angular-green?style=for-the-badge&logo=angular)](https://angular.io/)
 
 [![](https://img.shields.io/badge/-gmail-lightgray?style=for-the-badge&logo=gmail)](mailto:parham.alvani@gmail.com)
 
