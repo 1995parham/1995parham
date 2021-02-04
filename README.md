@@ -45,5 +45,5 @@ for aLive() == true {
 </p>-->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1995parham&show_icons=true&theme=onedark" alt="Parham Alvani's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=1995parham&show_icons=true&theme=monokai" alt="Parham Alvani's GitHub stats" />
 </p>
