@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/1995parham/1995parham/raw/master/logo-lg.png"></img>
+  <img src="https://github.com/1995parham/1995parham/raw/main/logo-lg.png"></img>
 </p>
 <h3 align="center">#IranianLivesMatter 🇮🇷</h3>
 <h3 align="center">I love you Github, check <a href="https://github.blog/2021-01-05-advancing-developer-freedom-github-is-fully-available-in-iran/">this</a> out</h3>
