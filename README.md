@@ -38,7 +38,7 @@ for aLive() == true {
 
 ## Contact Me
 
-[![](https://img.shields.io/badge/-gmail-lightgray?style=for-the-badge&logo=gmail)](mailto:parham.alvani@gmail.com)
+[![](https://img.shields.io/badge/-pahram.alvani@gmail.com-lightgray?style=for-the-badge&logo=gmail)](mailto:parham.alvani@gmail.com)
 
 <!--<p align="center">
   <img src="https://raw.githubusercontent.com/1995parham/1995parham/master/bernard.gif"></img>
