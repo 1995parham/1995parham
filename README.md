@@ -36,6 +36,8 @@ for aLive() == true {
 [![](https://img.shields.io/badge/-c-orange?style=for-the-badge&logo=c)](https://en.wikipedia.org/wiki/C_%28programming_language%29)
 
 [![](https://img.shields.io/badge/-angular-green?style=for-the-badge&logo=angular)](https://angular.io/)
+[![](https://img.shields.io/badge/-react-green?style=for-the-badge&logo=react)](https://reactjs.org/)
+
 
 ## Contact Me
 
