@@ -47,7 +47,18 @@ for aLive() == true {
   <img src="https://raw.githubusercontent.com/1995parham/1995parham/master/bernard.gif"></img>
 </p>-->
 
+## Statistics
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=1995parham&show_icons=true&theme=monokai" alt="Parham Alvani's GitHub stats" /><br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=1995parham&theme=monokai" alt="Parham Alvani's Github Steak" />
 </p>
+
+
+## Short History of Me
+
+I started my B.Sc. at Amirkabir in 2013, my first professional programming projects are on embedded systems and the internet of things at our AoLab founded at our faculty.
+I continued the internet of things by running a startup [Nahal](https://github.com/Nahalco) which didn't start at all and we closed it before even start. In 2016 we started IoT Project at [AIoTRC](https://github.com/aiotrc)
+with our university professors but it didn't finish. we had moved it into an open-source project [I1820](github.com/i1820/) without any achievement but experience.
+after that, I left the IoT carrier and joined Snapp. since then I am a backend developer at Snapp! which is a great experience for me and I loved it ❤️,
+My academic carrier after B.Sc. focused on NFV and SDN without notable results.
