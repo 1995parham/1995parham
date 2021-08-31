@@ -55,6 +55,7 @@ for aLive() == true {
 </p>
 
 
+<!--
 ## Short History of Me
 
 I started my B.Sc. at Amirkabir in 2013, my first professional programming projects are on embedded systems and the internet of things at our AoLab founded at our faculty.
@@ -62,3 +63,4 @@ I continued the internet of things by running a startup [Nahal](https://github.c
 with our university professors but it didn't finish. we had moved it into an open-source project [I1820](github.com/i1820/) without any achievement but experience.
 after that, I left the IoT carrier and joined Snapp. since then I am a backend developer at Snapp! which is a great experience for me and I loved it ❤️,
 My academic carrier after B.Sc. focused on NFV and SDN without notable results.
+-->
