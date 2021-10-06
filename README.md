@@ -18,7 +18,7 @@ I live in Iran, Tehran and I love my country. I can summarize my life with the f
 
 ```go
 go inLove([]string{"@elahe-dastan", "c", "golang", "python3", "angular", "rust"})
-go research([]string{"IoT", "NFV"})
+go research([]string{"IoT"})
 
 for aLive() == true {
   eat()
