@@ -40,7 +40,7 @@ for aLive() == true {
 
 ## Contact Me
 
-[![](https://img.shields.io/badge/-1995parham@tuta.io-lightgray?style=for-the-badge&logo=tutanota)](mailto:1995parham@tuta.io)
+[![](https://img.shields.io/badge/-pahram.alvani@gmail.com-lightgray?style=for-the-badge&logo=tutanota)](mailto:1995parham@tuta.com)
 
 <!--<p align="center">
   <img src="https://raw.githubusercontent.com/1995parham/1995parham/master/bernard.gif"></img>
