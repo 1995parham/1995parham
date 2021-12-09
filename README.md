@@ -18,7 +18,7 @@ I also have experience in the Internet of Things and designing the Low Power LAN
 I live in Iran, Tehran and I love my country. I can summarize my life with the following code:
 
 ```go
-go inLove([]string{"@elahe-dastan", "c", "golang", "python3", "angular", "rust"})
+go inLove([]string{"@elahe-dastan", "c", "golang", "python3", "react", "rust"})
 go research([]string{"IoT"})
 
 for aLive() == true {
