@@ -2,20 +2,28 @@
   <img src="https://github.com/1995parham/1995parham/raw/main/logo-lg.png"></img>
 </p>
 
-<h3 align="center">I love you Github, check <a href="https://github.blog/2021-01-05-advancing-developer-freedom-github-is-fully-available-in-iran/">this</a> out</h3>
+<h3 align="center">
+  I love you Github, check
+  <a href="https://github.blog/2021-01-05-advancing-developer-freedom-github-is-fully-available-in-iran/">this</a> out!
+</h3>
 
 # 1995parham 🐼
 
 ## About Me
 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/1995parham/1995parham.pdf?label=Resume&logo=github&style=for-the-badge)](https://github.com/1995parham/1995parham.pdf/releases/latest)
-[![](https://img.shields.io/badge/-elahe.dstn-black?style=for-the-badge&label=%F0%9F%A7%A1)](https://github.com/elahe-dastan)
+[![Elahe Dastan](https://img.shields.io/badge/-elahe.dstn-black?style=for-the-badge&label=%F0%9F%A7%A1)](https://github.com/elahe-dastan)
 
-I am a Backend Developer at Snapp! and my favorite language is Golang since 2014 when I fell in love with it.
-I love open-source and try to develop useful and tangible software. I have experience with Frontend development too.
-Currently, I am studying Ph.D. at the Amirkabir University of Technology. My research interests include but not limited to LPWAN, LoRaWAN and Internet of Things.
-I also have experience in the Internet of Things and designing the Low Power LAN solutions from working and researching at the Amirkabir University of Technology Laboratory (AoLab).
-I live in Iran, Tehran and I love my country. I can summarize my life with the following code:
+I'm a Backend Developer at Snapp! and my favorite language
+is Golang since 2014 when I fell in love with it.
+I love open-source and try to develop useful and tangible software.
+I have experience with Frontend development too, but it dates long ago.
+Currently, I am studying Ph.D. at the Amirkabir University of Technology.
+My research interests include but not limited to LPWAN, LoRaWAN and Internet of Things.
+I also have experience in the Internet of Things and designing the Low Power LAN solutions
+from working and researching at the Amirkabir University of Technology Laboratory (AoLab).
+I live in Iran, Tehran and I love my country.
+I can summarize me and my life with the following code:
 
 ```go
 go inLove([]string{"@elahe-dastan", "c", "golang", "python3", "react", "rust"})
@@ -33,10 +41,10 @@ for aLive() == true {
 
 ## Organizations
 
-- [Lectures and courses that I tought](https://github.com/1995parham-teaching/)
-- [PhD Research (WIP)](https://github.com/citado/)
-- [MSc Research](https://github.com/reinnet/)
-- [BSc, MSc and PhD Courses that I passed since 2013](https://github.com/9231058)
+- [Lectures and courses that I taught](https://github.com/1995parham-teaching/)
+- [Ph.D. Research (WIP)](https://github.com/citado/)
+- [M.Sc. Research](https://github.com/reinnet/)
+- [B.Sc., M.Sc. and Ph.D. Courses that I passed since 2013](https://github.com/9231058)
 - [Personal learning on programming languages and other technical stuffs](https://github.com/1995parham-learning)
 - [Snapp!](https://github.com/snapp-incubator/)
 
