@@ -19,32 +19,26 @@ I live in Iran, Tehran and I love my country. I can summarize my life with the f
 
 ```go
 go inLove([]string{"@elahe-dastan", "c", "golang", "python3", "react", "rust"})
-go research([]string{"IoT"})
+go research([]string{"IoT", "LoRaWAN"})
 
 for aLive() == true {
   eat()
   code()
+  if haveTime() {
+    checkEMail()
+  }
   sleep()
 }
 ```
 
-## Languages & Technologies
+## Organizations
 
-[![](https://img.shields.io/badge/-rust-orange?style=for-the-badge&logo=rust)](https://www.rust-lang.org/)
-[![](https://img.shields.io/badge/-go-orange?style=for-the-badge&logo=go)](https://go.dev/)
-[![](https://img.shields.io/badge/-python3-orange?style=for-the-badge&logo=python)](https://www.python.org/)
-[![](https://img.shields.io/badge/-c-orange?style=for-the-badge&logo=c)](https://en.wikipedia.org/wiki/C_%28programming_language%29)
-
-[![](https://img.shields.io/badge/-angular-green?style=for-the-badge&logo=angular)](https://angular.io/)
-[![](https://img.shields.io/badge/-react-green?style=for-the-badge&logo=react)](https://reactjs.org/)
-
-## Contact Me
-
-[![](https://img.shields.io/badge/-pahram.alvani@gmail.com-lightgray?style=for-the-badge&logo=gmail)](mailto:parham.alvani@gmail.com)
-
-<!--<p align="center">
-  <img src="https://raw.githubusercontent.com/1995parham/1995parham/master/bernard.gif"></img>
-</p>-->
+- [Lectures and courses that I tought](https://github.com/1995parham-teaching/)
+- [PhD Research (WIP)](https://github.com/citado/)
+- [MSc Research](https://github.com/reinnet/)
+- [BSc, MSc and PhD Courses that I passed since 2013](https://github.com/9231058)
+- [Personal learning on programming languages and other technical stuffs](https://github.com/1995parham-learning)
+- [Snapp!](https://github.com/snapp-incubator/)
 
 ## Statistics
 
