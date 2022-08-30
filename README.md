@@ -18,10 +18,6 @@ I'm a Backend Developer at Snapp! and my favorite language
 is Golang since 2014 when I fell in love with it.
 I love open-source and try to develop useful and tangible software.
 I have experience with Frontend development too, but it dates long ago.
-Currently, I am studying Ph.D. at the Amirkabir University of Technology.
-My research interests include but not limited to LPWAN, LoRaWAN and Internet of Things.
-I also have experience in the Internet of Things and designing the Low Power LAN solutions
-from working and researching at the Amirkabir University of Technology Laboratory (AoLab).
 I live in Iran, Tehran and I love my country.
 I can summarize me and my life with the following code:
 
