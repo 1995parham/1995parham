@@ -38,7 +38,7 @@ for aLive() == true {
 ## Organizations
 
 - [Lectures and courses that I taught](https://github.com/1995parham-teaching/)
-- [Ph.D. Research (WIP)](https://github.com/citado/)
+- [Ph.D. Research](https://github.com/citado/)
 - [M.Sc. Research](https://github.com/reinnet/)
 - [B.Sc., M.Sc. and Ph.D. Courses that I passed since 2013](https://github.com/9231058)
 - [Personal learning on programming languages and other technical stuffs](https://github.com/1995parham-learning)
