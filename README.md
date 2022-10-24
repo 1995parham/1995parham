@@ -23,7 +23,7 @@ I can summarize me and my life with the following code:
 
 ```go
 go inLove([]string{"@elahe-dastan", "c", "golang", "python3", "react", "rust"})
-go research([]string{"IoT", "LoRaWAN"})
+go research([]string{})
 
 for aLive() == true {
   eat()
