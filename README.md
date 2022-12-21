@@ -16,6 +16,7 @@
 
 I'm a Backend Developer at Snapp! and my favorite language
 is Golang since 2014 when I fell in love with it.
+I know Python too and always eager to learn.
 I love open-source and try to develop useful and tangible software.
 I have experience with Frontend development too, but it dates long ago.
 I live in Iran, Tehran and I love my country.
@@ -39,6 +40,8 @@ for aLive() == true {
 <p align="center">
   <img src="https://github.com/1995parham/1995parham/blob/main/bernard.gif?raw=true" alt="Bernard" />
 </p>
+
+
 
 ## Organizations
 
