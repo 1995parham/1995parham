@@ -41,7 +41,11 @@ for aLive() == true {
   <img src="https://github.com/1995parham/1995parham/blob/main/bernard.gif?raw=true" alt="Bernard" />
 </p>
 
+### Right now, I am at military service
 
+<p align="center">
+  <img src="https://github.com/1995parham/1995parham/blob/main/military.png?raw=true" alt="Military" />
+</p>
 
 ## Organizations
 
