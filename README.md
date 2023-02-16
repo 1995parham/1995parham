@@ -41,12 +41,6 @@ for aLive() == true {
   <img src="https://github.com/1995parham/1995parham/blob/main/bernard.gif?raw=true" alt="Bernard" />
 </p>
 
-Right now, I am at military service (since 22 Dec 2022) and I hope it will be finished on 16 Feb 2023.
-
-<p align="center">
-  <img src="https://github.com/1995parham/1995parham/blob/main/military.png?raw=true" alt="Military" />
-</p>
-
 ## Organizations
 
 - [Lectures and courses that I taught](https://github.com/1995parham-teaching/)
