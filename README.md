@@ -9,6 +9,10 @@
 
 # 1995parham 🐼
 
+<p align="center">
+  <img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=1995parham&theme=onedark" />
+</p>
+
 ## About Me
 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/1995parham/1995parham.pdf?label=Resume&logo=github&style=for-the-badge)](https://github.com/1995parham/1995parham.pdf/releases/latest)
