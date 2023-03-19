@@ -52,7 +52,7 @@ for aLive() == true {
 ## Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1995parham&show_icons=true&theme=monokai" alt="Parham Alvani's GitHub stats" /><br />
+  <img src="https://github-readme-stats.vercel.app/api?username=1995parham&show_icons=true&theme=monokai" alt="Parham Alvani's GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=1995parham&theme=monokai" alt="Parham Alvani's Github Steak" /><br>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=1995parham&theme=monokai" alt="Parham Alvani's Wakatime"></a>
 </p>
