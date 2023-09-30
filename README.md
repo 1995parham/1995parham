@@ -12,6 +12,8 @@
 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/1995parham/1995parham.pdf?label=Resume&logo=github&style=for-the-badge)](https://github.com/1995parham/1995parham.pdf/releases/latest)
 [![Elahe Dastan](https://img.shields.io/badge/-elahe.dstn-black?style=for-the-badge&label=%F0%9F%A7%A1)](https://github.com/elahe-dastan)
+[![16personalities](https://img.shields.io/badge/16personalities-ISTJT-orange?style=for-the-badge)](https://www.16personalities.com/profiles/da292f9304d9e)
+
 
 I'm a Backend Developer at Snapp! and my favorite language
 is Golang since 2014 when I fell in love with it.
