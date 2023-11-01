@@ -14,8 +14,8 @@
 [![Elahe Dastan](https://img.shields.io/badge/-elahe.dstn-black?style=for-the-badge&label=%F0%9F%A7%A1)](https://github.com/elahe-dastan)
 [![16personalities](https://img.shields.io/badge/16personalities-ISTJT-orange?style=for-the-badge)](https://www.16personalities.com/profiles/da292f9304d9e)
 
-
-I'm a Backend Developer at Snapp! and my favorite language
+I'm a Backend Developer at Snapp!
+My favorite language
 is Golang since 2014 when I fell in love with it.
 I know Python too and always eager to learn.
 I love open-source and try to develop useful and tangible software.
@@ -24,18 +24,68 @@ I live in Iran, Tehran and I love my country.
 I can summarize me and my life with the following code:
 
 ```go
-go inLove([]string{"@elahe-dastan", "c", "golang", "python3", "react", "rust"})
+package main
 
-for aLive() == true {
-  eat()
-  code()
+import (
+ "fmt"
+ "net/http"
+)
+
+func eat(dishes ...string) {
+ fmt.Printf("😋 %v\n", dishes)
+}
+
+func inLove(theOne string) {
+ fmt.Printf("😍 %v\n", theOne)
+}
+
+func code(langs ...string) {
+ fmt.Printf("💻 %v\n", langs)
+}
+
+func aLive() bool {
+ req, err := http.NewRequest("GET", "https://github.com/1995parham", nil)
+ if err != nil {
+  return false
+ }
+
+ resp, err := http.DefaultClient.Do(req)
+ if err != nil {
+  return false
+ }
+
+ if resp.StatusCode == http.StatusOK {
+  return true
+ }
+
+ return false
+}
+
+func haveTime() bool {
+ return false
+}
+
+func checkEMail() {
+ fmt.Printf("📧\n")
+}
+
+func sleep() {
+ fmt.Printf("😴\n")
+}
+
+func main() {
+ go inLove("@elahe-dastan")
+
+ for aLive() {
+  eat("Kebab 🍢")
+  code("c", "golang", "python3", "react", "rust")
   if haveTime() {
-    checkEMail()
+   checkEMail()
   }
   sleep()
+ }
 }
 ```
-
 
 <p align="center">
   <img src="https://github.com/1995parham/1995parham/blob/main/bernard.gif?raw=true" alt="Bernard" />
