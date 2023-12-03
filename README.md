@@ -15,76 +15,75 @@
 [![16personalities](https://img.shields.io/badge/16personalities-ISTJT-orange?style=for-the-badge)](https://www.16personalities.com/profiles/da292f9304d9e)
 
 I'm a Backend Developer at Snapp!
-My favorite language
-is Golang since 2014 when I fell in love with it.
-I know Python too and always eager to learn.
+My favorite language is Golang since 2014; I fell in love with it.
+I also know Python and am always eager to learn more.
 I love open-source and try to develop useful and tangible software.
-I have experience with Frontend development too, but it dates long ago.
-I live in Iran, Tehran and I love my country.
-I can summarize me and my life with the following code:
+I also have experience with Frontend development, but it dates long ago.
+I live in Iran, Tehran, and I love my country.
+I can summarize myself and my life with the following code:
 
 ```go
 package main
 
 import (
- "fmt"
- "net/http"
+	"fmt"
+	"net/http"
 )
 
 func eat(dishes ...string) {
- fmt.Printf("😋 %v\n", dishes)
+	fmt.Printf("😋 %v\n", dishes)
 }
 
 func inLove(theOne string) {
- fmt.Printf("😍 %v\n", theOne)
+	fmt.Printf("😍 %v\n", theOne)
 }
 
 func code(langs ...string) {
- fmt.Printf("💻 %v\n", langs)
+	fmt.Printf("💻 %v\n", langs)
 }
 
-func aLive() bool {
- req, err := http.NewRequest("GET", "https://github.com/1995parham", nil)
- if err != nil {
-  return false
- }
+func alive() bool {
+	req, err := http.NewRequest("GET", "https://github.com/1995parham", nil)
+	if err != nil {
+		return false
+	}
 
- resp, err := http.DefaultClient.Do(req)
- if err != nil {
-  return false
- }
+	resp, err := http.DefaultClient.Do(req)
+	if err != nil {
+		return false
+	}
+	defer resp.Body.Close()
 
- if resp.StatusCode == http.StatusOK {
-  return true
- }
-
- return false
+	return resp.StatusCode == http.StatusOK
 }
 
 func haveTime() bool {
- return false
+	return false
 }
 
 func checkEMail() {
- fmt.Printf("📧\n")
+	fmt.Printf("📧\n")
 }
 
 func sleep() {
- fmt.Printf("😴\n")
+	fmt.Printf("😴\n")
 }
 
 func main() {
- go inLove("@elahe-dastan")
+	go inLove("@elahe-dastan")
 
- for aLive() {
-  eat("Kebab 🍢")
-  code("c", "golang", "python3", "react", "rust")
-  if haveTime() {
-   checkEMail()
-  }
-  sleep()
- }
+	for alive() {
+		eat("Kebab 🍢")
+		code("c", "golang", "python3", "react", "rust")
+
+		if haveTime() {
+			checkEMail()
+		}
+
+		sleep()
+	}
 }
+
 ```
 
 <p align="center">
@@ -97,7 +96,7 @@ func main() {
 - [Ph.D. Research](https://github.com/citado/)
 - [M.Sc. Research](https://github.com/reinnet/)
 - [B.Sc., M.Sc. and Ph.D. Courses that I passed since 2013](https://github.com/9231058)
-- [Personal learning on programming languages and other technical stuffs](https://github.com/1995parham-learning)
+- [Personal learning on programming languages and other technical stuff](https://github.com/1995parham-learning)
 - [Snapp!](https://github.com/snapp-incubator/)
 
 ## Statistics
