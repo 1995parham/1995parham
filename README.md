@@ -5,7 +5,7 @@
 # 1995parham 🐼
 
 <p align="center">
-  <img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=1995parham&theme=onedark" />
+  <img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=1995parham&theme=onedark&title=MultiLanguage,Commits,PullRequest,Issues,Starts,Followers,Experience" />
 </p>
 
 ## About Me
