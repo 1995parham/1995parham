@@ -14,13 +14,7 @@
 [![Elahe Dastan](https://img.shields.io/badge/-elahe.dstn-black?style=for-the-badge&label=%F0%9F%A7%A1)](https://github.com/elahe-dastan)
 [![16personalities](https://img.shields.io/badge/16personalities-ISTJT-orange?style=for-the-badge)](https://www.16personalities.com/profiles/da292f9304d9e)
 
-I'm a Backend Developer at Snapp!
-My favorite language is Golang since 2014; I fell in love with it.
-I also know Python and am always eager to learn more.
-I love open-source and try to develop useful and tangible software.
-I also have experience with Frontend development, but it dates long ago.
-I live in Iran, Tehran, and I love my country.
-I can summarize myself and my life with the following code:
+I’m a Backend Developer at Snapp! I’ve been passionate about Golang since 2014 – it’s my favorite programming language. Besides Golang, I’m proficient in Python and have an insatiable appetite for learning new technologies. I’m a strong advocate for open-source and dedicate myself to developing software that’s not only useful but also tangible. While I have experience in Frontend development, it’s been quite some time since I last dived into it. I reside in Tehran, Iran, and hold immense pride in my country. My life and professional ethos can be encapsulated in the following snippet of code:
 
 ```go
 package main
