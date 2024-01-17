@@ -98,5 +98,5 @@ func main() {
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=1995parham&show_icons=true&theme=monokai" alt="Parham Alvani's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1995parham&theme=monokai" alt="Parham Alvani's Github Steak" /><br>
+  <img src="https://streak-stats.demolab.com?user=1995parham&theme=monokai" alt="Parham Alvani's Github Steak" /><br>
 </p>
