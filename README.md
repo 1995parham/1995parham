@@ -21,62 +21,62 @@ I’m a Backend Developer at Snapp! I’ve been passionate about Golang since 20
 package main
 
 import (
-	"fmt"
-	"net/http"
+ "fmt"
+ "net/http"
 )
 
 func eat(dishes ...string) {
-	fmt.Printf("😋 %v\n", dishes)
+ fmt.Printf("😋 %v\n", dishes)
 }
 
 func inLove(theOne string) {
-	fmt.Printf("😍 %v\n", theOne)
+ fmt.Printf("😍 %v\n", theOne)
 }
 
 func code(langs ...string) {
-	fmt.Printf("💻 %v\n", langs)
+ fmt.Printf("💻 %v\n", langs)
 }
 
 func alive() bool {
-	req, err := http.NewRequest("GET", "https://github.com/1995parham", nil)
-	if err != nil {
-		return false
-	}
+ req, err := http.NewRequest("GET", "https://github.com/1995parham", nil)
+ if err != nil {
+  return false
+ }
 
-	resp, err := http.DefaultClient.Do(req)
-	if err != nil {
-		return false
-	}
-	defer resp.Body.Close()
+ resp, err := http.DefaultClient.Do(req)
+ if err != nil {
+  return false
+ }
+ defer resp.Body.Close()
 
-	return resp.StatusCode == http.StatusOK
+ return resp.StatusCode == http.StatusOK
 }
 
 func haveTime() bool {
-	return false
+ return false
 }
 
 func checkEMail() {
-	fmt.Printf("📧\n")
+ fmt.Printf("📧\n")
 }
 
 func sleep() {
-	fmt.Printf("😴\n")
+ fmt.Printf("😴\n")
 }
 
 func main() {
-	go inLove("@elahe-dastan")
+ go inLove("@elahe-dastan")
 
-	for alive() {
-		eat("Kebab 🍢")
-		code("c", "golang", "python3", "react", "rust")
+ for alive() {
+  eat("Kebab 🍢")
+  code("c", "golang", "python3", "react", "rust")
 
-		if haveTime() {
-			checkEMail()
-		}
+  if haveTime() {
+   checkEMail()
+  }
 
-		sleep()
-	}
+  sleep()
+ }
 }
 
 ```
@@ -101,8 +101,10 @@ func main() {
   <img src="https://streak-stats.demolab.com/?user=1995parham&theme=monokai" alt="Parham Alvani's Github Steak" /><br>
 </p>
 
+<!--
 ## She said yes 🚀🥰🧡😍
 
 <p align="center">
-  <img src="" alt="She said yes" />
+  <img src="https://github.com/1995parham/1995parham/raw/main/she-said-yes.png" alt="She said yes" />
 </p>
+-->
