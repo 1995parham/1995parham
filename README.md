@@ -105,5 +105,5 @@ func main() {
 ## She said yes 🚀🥰🧡😍
 
 <p align="center">
-  <img src="https://github.com/1995parham/1995parham/raw/main/she-said-yes.png" alt="She said yes" />
+  <img src="https://github.com/1995parham/1995parham/raw/main/she-said-yes.jpg" alt="She said yes" />
 </p>
