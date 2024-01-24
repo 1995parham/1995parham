@@ -15,7 +15,9 @@
 [![16personalities](https://img.shields.io/badge/16personalities-ISTJT-orange?style=for-the-badge)](https://www.16personalities.com/profiles/da292f9304d9e)
 [![wakatime](https://wakatime.com/badge/user/db2930d0-3bf8-4f88-b64d-cfb67c21c2b6.svg?style=for-the-badge)](https://wakatime.com/@db2930d0-3bf8-4f88-b64d-cfb67c21c2b6)
 
-I’m a Backend Developer at Snapp! I’ve been passionate about Golang since 2014 – it’s my favorite programming language. Besides Golang, I’m proficient in Python and have an insatiable appetite for learning new technologies. I’m a strong advocate for open-source and dedicate myself to developing software that’s not only useful but also tangible. While I have experience in Frontend development, it’s been quite some time since I last dived into it. I reside in Tehran, Iran, and hold immense pride in my country. My life and professional ethos can be encapsulated in the following snippet of code:
+I’m a Backend Developer, I’ve been passionate about Golang since 2014 – it’s my favorite programming language. Besides Golang, I’m proficient in Python and have an insatiable appetite for learning new technologies.
+I’m a strong advocate for open-source and dedicate myself to developing software that’s not only useful but also tangible. While I have experience in Frontend development,
+it’s been quite some time since I last dived into it. My life and professional ethos can be encapsulated in the following snippet of code:
 
 ```go
 package main
