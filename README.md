@@ -20,6 +20,9 @@
   <a href="https://leetcode.com/1995parham/">
     <img alt="leetcode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
   </a>
+  <a href="https://www.reddit.com/user/1995parham/">
+    <img alt="reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
+  </a>
 </p>
 
 # 1995parham 🐼
