@@ -23,6 +23,12 @@
   <a href="https://www.reddit.com/user/1995parham/">
     <img alt="reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
   </a>
+  <a href="">
+    <img alt="whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" />
+  </a>
+  <a href="https://codeforces.com/profile/parham.alvani">
+    <img alt="codeforces" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />
+  </a>
 </p>
 
 # 1995parham 🐼
