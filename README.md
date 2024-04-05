@@ -1,5 +1,25 @@
 <p align="center">
-  <img src="https://github.com/1995parham/1995parham/raw/main/logo-lg.png"></img>
+  <img src="https://github.com/1995parham/1995parham/raw/main/logo-lg.png" />
+  <br />
+  <a href="https://github.com/1995parham/1995parham.pdf/releases/latest">
+    <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/1995parham/1995parham.pdf?label=Resume&logo=github&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/elahe-dastan">
+    <img alt="Elahe Dastan" src="https://img.shields.io/badge/-elahe--dastan-black?style=for-the-badge&label=%F0%9F%A7%A1" />
+  </a>
+  <a href="https://www.16personalities.com/profiles/da292f9304d9e">
+    <img alt="16personalities" src="https://img.shields.io/badge/16personalities-ISTJT-orange?style=for-the-badge" />
+  </a>
+  <a href="https://wakatime.com/@db2930d0-3bf8-4f88-b64d-cfb67c21c2b6">
+    <img alt="wakatime" src="https://wakatime.com/badge/user/db2930d0-3bf8-4f88-b64d-cfb67c21c2b6.svg?style=for-the-badge" />
+  </a>
+  <br />
+  <a href="https://www.linkedin.com/in/1995parham/">
+    <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/1995parham/">
+    <img alt="leetcode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+  </a>
 </p>
 
 # 1995parham 🐼
@@ -9,12 +29,6 @@
 </p>
 
 ## About Me
-
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/1995parham/1995parham.pdf?label=Resume&logo=github&style=for-the-badge)](https://github.com/1995parham/1995parham.pdf/releases/latest)
-[![Elahe Dastan](https://img.shields.io/badge/-elahe.dstn-black?style=for-the-badge&label=%F0%9F%A7%A1)](https://github.com/elahe-dastan)
-[![16personalities](https://img.shields.io/badge/16personalities-ISTJT-orange?style=for-the-badge)](https://www.16personalities.com/profiles/da292f9304d9e)
-[![wakatime](https://wakatime.com/badge/user/db2930d0-3bf8-4f88-b64d-cfb67c21c2b6.svg?style=for-the-badge)](https://wakatime.com/@db2930d0-3bf8-4f88-b64d-cfb67c21c2b6)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/1995parham/)
 
 I’m a Backend Developer, I’ve been passionate about Golang since 2014 – it’s my favorite programming language. Besides Golang, I’m proficient in Python and have an insatiable appetite for learning new technologies.
 I’m a strong advocate for open-source and dedicate myself to developing software that’s not only useful but also tangible. While I have experience in Frontend development,
