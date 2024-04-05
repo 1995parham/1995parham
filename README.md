@@ -14,7 +14,7 @@
 [![Elahe Dastan](https://img.shields.io/badge/-elahe.dstn-black?style=for-the-badge&label=%F0%9F%A7%A1)](https://github.com/elahe-dastan)
 [![16personalities](https://img.shields.io/badge/16personalities-ISTJT-orange?style=for-the-badge)](https://www.16personalities.com/profiles/da292f9304d9e)
 [![wakatime](https://wakatime.com/badge/user/db2930d0-3bf8-4f88-b64d-cfb67c21c2b6.svg?style=for-the-badge)](https://wakatime.com/@db2930d0-3bf8-4f88-b64d-cfb67c21c2b6)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][https://www.linkedin.com/in/1995parham/]
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/1995parham/)
 
 I’m a Backend Developer, I’ve been passionate about Golang since 2014 – it’s my favorite programming language. Besides Golang, I’m proficient in Python and have an insatiable appetite for learning new technologies.
 I’m a strong advocate for open-source and dedicate myself to developing software that’s not only useful but also tangible. While I have experience in Frontend development,
