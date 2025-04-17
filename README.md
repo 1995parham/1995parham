@@ -36,9 +36,9 @@
 
 ## About Me
 
-I’m a Backend Developer, I’ve been passionate about Golang since 2014 – it’s my favorite programming language. Besides Golang, I’m proficient in Python and have an insatiable appetite for learning new technologies.
+I’m a Backend Developer. I’ve been passionate about Golang since 2014 – It’s my favorite programming language. Besides Golang, I’m proficient in Python and have an insatiable appetite for learning new technologies.
 I’m a strong advocate for open-source and dedicate myself to developing software that’s not only useful but also tangible. While I have experience in Frontend development,
-it’s been quite some time since I last dived into it. My life and professional ethos can be encapsulated in the following snippet of code:
+it’s been some time since I last dived into it. My life and professional ethos can be encapsulated in the following snippet of code:
 
 ```go
 package main
@@ -121,7 +121,6 @@ func main() {
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=1995parham&show_icons=true&theme=monokai" alt="Parham Alvani's GitHub stats" />
-  <img src="https://streak-stats.demolab.com/?user=1995parham&theme=monokai" alt="Parham Alvani's Github Steak" /><br>
 </p>
 
 
