@@ -30,9 +30,11 @@
 
 # 1995parham 🐼
 
-<p align="center">
-  <img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=1995parham&theme=onedark&title=MultiLanguage,Commits,PullRequest,Issues,Stars,Followers,Experience" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/1995parham/1995parham/raw/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/1995parham/1995parham/raw/output/github-snake.svg" />
+  <img alt="github-snake" src="https://github.com/1995parham/1995parham/raw/output/github-snake.svg" />
+</picture>
 
 ## About Me
 
@@ -120,7 +122,8 @@ func main() {
 ## Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1995parham&show_icons=true&theme=monokai" alt="Parham Alvani's GitHub stats" />
+  <img src="https://github.com/1995parham/1995parham/raw/main/metrics.svg" alt="Parham Alvani's GitHub stats" />
+  <img src="https://github.com/1995parham/1995parham/raw/main/languages.svg" alt="Parham Alvani's Languages" />
 </p>
 
 
