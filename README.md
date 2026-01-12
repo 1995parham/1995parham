@@ -124,6 +124,7 @@ func main() {
 <p align="center">
   <img src="https://github.com/1995parham/1995parham/raw/main/metrics.svg" alt="Parham Alvani's GitHub stats" />
   <img src="https://github.com/1995parham/1995parham/raw/main/languages.svg" alt="Parham Alvani's Languages" />
+  <img src="https://github.com/1995parham/1995parham/raw/main/streak.svg" alt="Parham Alvani's Streak" />
 </p>
 
 
