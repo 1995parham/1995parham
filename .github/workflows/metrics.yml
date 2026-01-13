@@ -19,9 +19,3 @@ jobs:
           base: header, activity, community, repositories
           config_timezone: Asia/Tehran
           filename: metrics.svg
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 30
-          plugin_habits_charts: yes
-          plugin_habits_charts_type: classic
-          plugin_habits_trim: yes
