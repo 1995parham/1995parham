@@ -119,13 +119,6 @@ func main() {
 - [Personal learning on programming languages and other technical stuff](https://github.com/1995parham-learning)
 - [Snapp!](https://github.com/snapp-incubator/)
 
-## Statistics
-
-<p align="center">
-  <img src="https://github.com/1995parham/1995parham/raw/main/metrics.svg" alt="Parham Alvani's GitHub Metrics" />
-</p>
-
-
 ## She said yes 🚀🥰🧡😍
 
 <p align="center">
