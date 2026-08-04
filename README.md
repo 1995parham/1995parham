@@ -92,7 +92,7 @@ func main() {
 
  for alive() {
   eat("Kebab 🍢")
-  code("c", "golang", "python3", "react", "rust")
+  code("c", "golang", "python3", "rust")
 
   if haveTime() {
    checkEMail()
