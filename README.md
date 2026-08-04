@@ -35,7 +35,8 @@
 
 ## About Me
 
-I’m a Backend Developer. I’ve been passionate about Golang since 2014 – It’s my favorite programming language. Besides Golang, I’m proficient in Python and have an insatiable appetite for learning new technologies.
+I’m a Senior Software & Platform Engineer with a Ph.D. and 10+ years building backend systems and cloud-native platforms — Go, Python, Kubernetes, and microservices, including a messaging layer handling 300k+ messages/sec. Currently based in Barcelona, Spain 🇪🇸 (Digital Nomad visa, no sponsorship required).
+I’ve been passionate about Golang since 2014 – It’s my favorite programming language. Besides Golang, I’m proficient in Python and have an insatiable appetite for learning new technologies.
 I’m a strong advocate for open-source and dedicate myself to developing software that’s not only useful but also tangible. While I have experience in Frontend development,
 it’s been some time since I last dived into it. My life and professional ethos can be encapsulated in the following snippet of code:
 
