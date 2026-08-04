@@ -14,9 +14,6 @@
     <img alt="wakatime" src="https://wakatime.com/badge/user/db2930d0-3bf8-4f88-b64d-cfb67c21c2b6.svg?style=for-the-badge" />
   </a>
   <br />
-  <a href="https://www.linkedin.com/in/1995parham/">
-    <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
   <a href="https://leetcode.com/1995parham/">
     <img alt="leetcode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
   </a>
