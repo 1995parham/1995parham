@@ -27,7 +27,7 @@ Three repos state the same information publicly and must agree:
 | Repo | What it states |
 |---|---|
 | `1995parham.pdf` | Full resume — authoritative |
-| `1995parham.github.io` | `pages/index.tsx`, `pages/experience.tsx`, `pages/education.tsx` |
+| `1995parham.github.io` | `src/pages/index.astro`, `experience.astro`, `education.astro`, `projects.astro` |
 | `1995parham` (here) | `README.md` "About Me" |
 
 Visa and sponsorship status belongs on the **resume only**, not here. This page
