@@ -87,19 +87,6 @@ The longer version — experience, education, projects, and the odd blog post �
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
-## Things I've Built
-
-| Project | | What it is |
-| --- | --- | --- |
-| [**github-do-not-ban-us**](https://github.com/1995parham/github-do-not-ban-us) | [![stars](https://img.shields.io/github/stars/1995parham/github-do-not-ban-us?style=flat-square&labelColor=201E33&color=A1E477)](https://github.com/1995parham/github-do-not-ban-us/stargazers) | An open letter against sanctions cutting Iranian developers out of open source 🇮🇷 |
-| [**koochooloo**](https://github.com/1995parham/koochooloo) | [![stars](https://img.shields.io/github/stars/1995parham/koochooloo?style=flat-square&labelColor=201E33&color=A1E477)](https://github.com/1995parham/koochooloo/stargazers) | Self-hosted URL shortener in Go — custom aliases, RBAC, OIDC SSO, embedded admin panel |
-| [**dotfiles**](https://github.com/1995parham/dotfiles) | [![stars](https://img.shields.io/github/stars/1995parham/dotfiles?style=flat-square&labelColor=201E33&color=A1E477)](https://github.com/1995parham/dotfiles/stargazers) | My Linux / macOS configuration, kept reproducible 🚀 |
-| [**saf**](https://github.com/1995parham/saf) | [![stars](https://img.shields.io/github/stars/1995parham/saf?style=flat-square&labelColor=201E33&color=A1E477)](https://github.com/1995parham/saf/stargazers) | NATS JetStream standing in for a classic queue manager |
-| [**cheshmhayash**](https://github.com/1995parham/cheshmhayash) | [![stars](https://img.shields.io/github/stars/1995parham/cheshmhayash?style=flat-square&labelColor=201E33&color=A1E477)](https://github.com/1995parham/cheshmhayash/stargazers) | A dashboard that shows you what your NATS cluster is actually doing |
-| [**linkedlist**](https://github.com/1995parham/linkedlist) | [![stars](https://img.shields.io/github/stars/1995parham/linkedlist?style=flat-square&labelColor=201E33&color=A1E477)](https://github.com/1995parham/linkedlist/stargazers) | The first generic linked list in Go 💃 |
-| [**awesome-tile38**](https://github.com/1995parham/awesome-tile38) | [![stars](https://img.shields.io/github/stars/1995parham/awesome-tile38?style=flat-square&labelColor=201E33&color=A1E477)](https://github.com/1995parham/awesome-tile38/stargazers) | Everything worth knowing about Tile38, in one list 😎 |
-| [**gosimac**](https://github.com/1995parham/gosimac) | [![stars](https://img.shields.io/github/stars/1995parham/gosimac?style=flat-square&labelColor=201E33&color=A1E477)](https://github.com/1995parham/gosimac/stargazers) | Pulls today's wallpaper from Bing, Unsplash, and friends |
-
 ## Organizations
 
 Most of my work lives under an org rather than my own account. These are the ones worth a look:
@@ -107,7 +94,7 @@ Most of my work lives under an org rather than my own account. These are the one
 | | Organization | What lives there |
 | :---: | --- | --- |
 | <a href="https://github.com/snapp-incubator/"><img src="https://avatars.githubusercontent.com/u/89763510?s=64&v=4" width="32" alt="" /></a> | [**snapp-incubator**](https://github.com/snapp-incubator/) | Open source from Snapp!, Iran's largest ride-hailing platform |
-| <a href="https://github.com/rahacloud/"><img src="https://avatars.githubusercontent.com/u/240358052?s=64&v=4" width="32" alt="" /></a> | [**rahacloud**](https://github.com/rahacloud/) | Raha — infrastructure consulting and DevOps-as-a-Service |
+| <a href="https://github.com/rahacloud/"><img src="https://avatars.githubusercontent.com/u/240358052?s=64&v=4" width="32" alt="" /></a> | [**rahacloud**](https://github.com/rahacloud/) | Raha Cloud — infrastructure consulting and DevOps-as-a-Service |
 | <a href="https://github.com/1995parham-teaching/"><img src="https://avatars.githubusercontent.com/u/94595178?s=64&v=4" width="32" alt="" /></a> | [**1995parham-teaching**](https://github.com/1995parham-teaching/) | Course material I teach — C, Python, Go, networking, Kubernetes, LLMs |
 | <a href="https://github.com/citado/"><img src="https://avatars.githubusercontent.com/u/88397252?s=64&v=4" width="32" alt="" /></a> | [**citado**](https://github.com/citado/) | Ph.D. research — low-power wide-area network performance evaluation |
 | <a href="https://github.com/reinnet/"><img src="https://avatars.githubusercontent.com/u/52382071?s=64&v=4" width="32" alt="" /></a> | [**reinnet**](https://github.com/reinnet/) | M.Sc. research — network function virtualization and optimization |
