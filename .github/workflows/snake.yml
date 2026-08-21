@@ -5,13 +5,22 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+# The job only ever pushes the generated SVGs to the `output` branch, so the
+# token needs contents:write and nothing else.
+permissions:
+  contents: write
+
+concurrency:
+  group: snake
+  cancel-in-progress: true
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: Platane/snk@v3
         with:
-          github_user_name: 1995parham
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
