@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://1995parham.me">
-    <img alt="Homepage" src="https://img.shields.io/badge/1995parham.me-A1E477?style=for-the-badge&logo=astro&logoColor=201E33&labelColor=201E33&color=A1E477" />
+    <img alt="Homepage" src="https://img.shields.io/badge/-1995parham.me-A1E477?style=for-the-badge&label=%F0%9F%90%BC&labelColor=201E33" />
   </a>
   <a href="https://github.com/1995parham/1995parham.pdf/releases/latest">
     <img alt="Résumé (latest release)" src="https://img.shields.io/github/v/release/1995parham/1995parham.pdf?label=R%C3%A9sum%C3%A9&logo=github&style=for-the-badge&labelColor=201E33&color=A1E477" />
