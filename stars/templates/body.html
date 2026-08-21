@@ -1,0 +1,147 @@
+<div class="wrap">
+<header>
+  <div>
+    <p class="who">github.com/1995parham · starred</p>
+    <h1>Star Atlas<span class="dot">.</span></h1>
+    <p class="sub">Every starred repository, with the list it sits in today and the list it is
+      proposed to move to. Filter, search, and spot-check the filing before any of it is applied.</p>
+  </div>
+</header>
+
+<div class="stats" id="stats"></div>
+
+<div class="controls">
+  <div class="searchrow">
+    <input type="search" id="q" placeholder="Search name, description or language…" aria-label="Search repositories">
+    <select id="sort" aria-label="Sort order">
+      <option value="stars">Most stars</option>
+      <option value="recent">Recently pushed</option>
+      <option value="stale">Longest untouched</option>
+      <option value="name">Name (A–Z)</option>
+    </select>
+    <select id="lang" aria-label="Filter by language"></select>
+  </div>
+  <div class="chips" id="chips"></div>
+</div>
+
+<div class="count"><span id="count"></span><span id="hint"></span></div>
+<div class="rows" id="rows"></div>
+<button class="more" id="more" hidden>Show more</button>
+
+<div class="note">
+  <h2>How to read this</h2>
+  <p><span class="tag t-cur">list</span> is where a repo sits today.
+     <span class="tag t-new">list</span> is a proposed filing for a repo that is currently in no list —
+     <span class="tag t-fresh">list</span> marks one of the five newly proposed lists.
+     <span class="tag t-cut">cut</span> flags an unstar candidate, and
+     <span class="tag t-rev">review</span> marks a repo with no description and no topics, which no rule could place.</p>
+  <p>Nothing here is applied yet. Repos already filed by hand are shown unchanged — the plan only touches
+     repos in no list, because <code>updateUserListsForItem</code> replaces a repo's entire list set rather
+     than adding to it.</p>
+</div>
+</div>
+
+<script id="data" type="application/json">__PAYLOAD__</script>
+<script>
+(function(){
+  var D=JSON.parse(document.getElementById('data').textContent);
+  var R=D.rows, M=D.meta, NEW=new Set(M.newlists);
+  var F={q:'',lang:'',sort:'stars',chip:''};
+  var PAGE=250, shown=PAGE;
+
+  // name, lang, desc, stars, pushed, cur, prop, via, arch, prune
+  var esc=function(s){return String(s).replace(/[&<>"]/g,function(c){
+    return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c];});};
+
+  document.getElementById('stats').innerHTML=[
+    ['',M.total.toLocaleString(),'starred'],
+    ['',M.listed.toLocaleString(),'already filed'],
+    ['hl',M.assigned.toLocaleString(),'newly filed'],
+    ['',M.review.toLocaleString(),'need a look'],
+    ['warn',M.prune.toLocaleString(),'unstar candidates'],
+    ['hl','5','new lists']
+  ].map(function(s){return '<div class="stat '+s[0]+'"><b>'+s[1]+'</b><span>'+s[2]+'</span></div>';}).join('');
+
+  var langs={};
+  R.forEach(function(r){ if(r[1]) langs[r[1]]=(langs[r[1]]||0)+1; });
+  var ls=Object.keys(langs).sort(function(a,b){return langs[b]-langs[a];});
+  document.getElementById('lang').innerHTML='<option value="">All languages</option>'+
+    ls.map(function(l){return '<option value="'+esc(l)+'">'+esc(l)+' ('+langs[l]+')</option>';}).join('');
+
+  var CH=[['','Everything',M.total],
+          ['unfiled','Newly filed',M.assigned],
+          ['fresh','Into new lists',R.filter(function(r){return NEW.has(r[6]);}).length],
+          ['review','Need a look',M.review],
+          ['cut','Unstar candidates',M.prune],
+          ['filed','Already filed',M.listed]];
+  document.getElementById('chips').innerHTML=CH.map(function(c){
+    return '<button class="chip" data-c="'+c[0]+'" aria-pressed="'+(c[0]===''?'true':'false')+'">'+
+      c[1]+'<span class="n">'+c[2].toLocaleString()+'</span></button>';}).join('');
+
+  function match(r){
+    if(F.lang && r[1]!==F.lang) return false;
+    if(F.chip==='unfiled' && !r[6]) return false;
+    if(F.chip==='fresh'   && !NEW.has(r[6])) return false;
+    if(F.chip==='review'  && (r[5]||r[6])) return false;
+    if(F.chip==='cut'     && !r[9]) return false;
+    if(F.chip==='filed'   && !r[5]) return false;
+    if(F.q){ var h=(r[0]+' '+r[2]+' '+r[1]).toLowerCase();
+      for(var i=0;i<F.q.length;i++) if(h.indexOf(F.q[i])<0) return false; }
+    return true;
+  }
+  var SORT={ stars:function(a,b){return b[3]-a[3];},
+             recent:function(a,b){return (b[4]||'').localeCompare(a[4]||'');},
+             stale:function(a,b){return (a[4]||'9999').localeCompare(b[4]||'9999');},
+             name:function(a,b){return a[0].toLowerCase().localeCompare(b[0].toLowerCase());} };
+
+  function hl(t){ if(!F.q.length) return esc(t);
+    var out=esc(t);
+    F.q.forEach(function(w){ if(w.length<2) return;
+      out=out.replace(new RegExp('('+w.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')+')','ig'),'<mark>$1</mark>'); });
+    return out; }
+
+  function render(){
+    var res=R.filter(match).sort(SORT[F.sort]);
+    var slice=res.slice(0,shown);
+    document.getElementById('count').textContent=
+      res.length.toLocaleString()+' of '+M.total.toLocaleString()+' repositories';
+    document.getElementById('hint').textContent=
+      res.length>slice.length ? 'showing first '+slice.length.toLocaleString() : '';
+    document.getElementById('rows').innerHTML = slice.length ? slice.map(function(r){
+      var p=r[0].split('/'), tags=[];
+      if(r[5]) tags.push('<span class="tag t-cur">'+esc(r[5])+'</span>');
+      if(r[6]) tags.push('<span class="tag '+(NEW.has(r[6])?'t-fresh':'t-new')+'">'+esc(r[6])+'</span>');
+      if(!r[5]&&!r[6]) tags.push('<span class="tag t-rev">review</span>');
+      if(r[9]) tags.push('<span class="tag t-cut" title="'+esc(r[9])+'">cut</span>');
+      return '<div class="row">'+
+        '<a class="nm" href="https://github.com/'+esc(r[0])+'" target="_blank" rel="noopener">'+
+          '<span class="ow">'+hl(p[0])+'/</span>'+hl(p[1])+'</a>'+
+        (r[2]?'<div class="dsc">'+hl(r[2])+'</div>':'<div class="dsc"></div>')+
+        '<div class="meta">'+tags.join('')+
+          '<span class="lg">'+esc(r[1]||'—')+'</span>'+
+          '<span class="st">'+(r[3]>=1000?(r[3]/1000).toFixed(1)+'k':r[3])+'&#9733;</span>'+
+          '<span class="st">'+esc(r[4]||'—')+'</span>'+
+        '</div></div>';
+    }).join('') : '<div class="empty">Nothing matches those filters.</div>';
+    var m=document.getElementById('more');
+    m.hidden = res.length<=slice.length;
+    m.textContent='Show '+Math.min(PAGE,res.length-slice.length)+' more';
+  }
+
+  function reset(){ shown=PAGE; render(); }
+  var t;
+  document.getElementById('q').addEventListener('input',function(e){
+    clearTimeout(t); var v=e.target.value;
+    t=setTimeout(function(){ F.q=v.toLowerCase().split(/\s+/).filter(Boolean); reset(); },140); });
+  document.getElementById('sort').addEventListener('change',function(e){F.sort=e.target.value;reset();});
+  document.getElementById('lang').addEventListener('change',function(e){F.lang=e.target.value;reset();});
+  document.getElementById('chips').addEventListener('click',function(e){
+    var b=e.target.closest('.chip'); if(!b) return;
+    F.chip=b.dataset.c;
+    [].forEach.call(this.querySelectorAll('.chip'),function(c){
+      c.setAttribute('aria-pressed', c===b?'true':'false'); });
+    reset(); });
+  document.getElementById('more').addEventListener('click',function(){ shown+=PAGE; render(); });
+  F.q=[]; render();
+})();
+</script>
