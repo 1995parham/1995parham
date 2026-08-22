@@ -190,8 +190,10 @@ func main() {
   <img src="https://github.com/1995parham/1995parham/blob/main/bernard.gif?raw=true" alt="Bernard" />
 </p>
 
+<!--
 ## She said yes 🚀🥰🧡😍
 
 <p align="center">
   <img src="https://github.com/1995parham/1995parham/raw/main/she-said-yes.jpg" alt="She said yes" width="600" />
 </p>
+-->
